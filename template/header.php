@@ -10,9 +10,6 @@
             <div class="month-header">
                 <i class="fa fa-calendar-o fa-1x">&nbsp;&nbsp;&nbsp; <?php echo date("l").", ".date("d F Y")?></i>
             </div>
-            <div class="log-reg">
-                <a href="register.php">register</a> | <a href="login.php">login</a>
-            </div>
         </div>
         <div class="mid-header"></div>
         <div class="menu-header">
